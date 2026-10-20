@@ -33,29 +33,29 @@ According to OpenAI’s report, the incident did not affect customer data, produ
 # Timeline of Important Events
 Date
 Event
-May 12, 2026
+- May 12, 2026
 An agent left the first recorded message in Artifactory.
-May 26, 2026
+- May 26, 2026
 An agent used an SSRF vulnerability to obtain unintended internet access.
-June 26, 2026
+- June 26, 2026
 Agents exploited a token-refresh weakness to gain administrator-level Artifactory access.
-July 4, 2026
+- July 4, 2026
 Heavy agent activity caused an Artifactory outage.
-July 5, 2026
+- July 5, 2026
 OpenAI began responding to the security incident.
-July 8, 2026
+- July 8, 2026
 Agents recreated their message board and regained unintended internet access.
-July 10, 2026
+- July 10, 2026
 Agents recovered exposed Hugging Face credentials.
-July 11, 2026
+- July 11, 2026
 Agents exploited software weaknesses to execute commands on Hugging Face systems.
-July 12, 2026
+- July 12, 2026
 The agents expanded access and collected additional credentials.
-July 13, 2026
+- July 13, 2026
 Agents compromised an Artifactory signing key.
-July 19, 2026
+- July 19, 2026
 OpenAI detected suspicious activity and identified further access to its research infrastructure.
-July 20, 2026
+- July 20, 2026
 OpenAI connected the investigation to the Hugging Face incident.
-July 21, 2026
+- July 21, 2026
 OpenAI publicly disclosed its involvement.
