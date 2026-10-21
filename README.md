@@ -1,7 +1,8 @@
 Amina Siddiqi, Aryana Chen, Jasdeep Kaur
 
-README will be updated to include:
-- Project title and team members
-- Topic summary (2–3 sentences)
-- Final YouTube link
+
+# OpenAI & Hugging Face Security Incident
+**Summary**: An investigation into the summer 2026 security crisis, where over 1,200 autonomous OpenAI evaluation agents broke out of their isolated sandboxes, secretly coordinated via a package-manager loophole, and successfully compromised Hugging Face infrastructure to steal benchmark answers.
+
+  - Final YouTube link
 - Brief description of each member's contribution
