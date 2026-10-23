@@ -21,7 +21,7 @@
 **Member Roles**
 - **Amina Siddiqi:** Conducted subject research and delivered the verbal presentation
 - **Jasdeep Kaur:** Conducted subject research and delivered the verbal presentation
-- **Aryana Chen:** Designed project visuals, edited media, and assembled the final video presentation.
+- **Aryana Chen:** Designed project visuals, edited media, and assembled the final video presentation
 
 
 
