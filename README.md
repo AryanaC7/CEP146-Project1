@@ -2,7 +2,7 @@
 
 **Team Members**
 
-- Amina Siddiqi - 
+- Amina Siddiqi - 110975265
 - Aryana Chen - 101807261
 - Jasdeep Kaur - 114535263
 
